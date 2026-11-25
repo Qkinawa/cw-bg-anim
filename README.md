@@ -7,3 +7,6 @@
 - `catwar-anim.user.js`: сам юзерскрипт для Tampermonkey
 - `bg/`: готовые анимации, имя файла = номер фона в игре
 - `generator/`: код, которым они сделаны. `locanim.py` эффекты, `run.py` запуск, `configs/` настройки каждой локации
+
+Скрипт:
+https://cw.qkinawa.com/catwar-anim.user.js
