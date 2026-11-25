@@ -1,0 +1,42 @@
+{
+  "seed": 1446049778,
+  "glow": [
+    {
+      "polygon": [[270, 180], [650, 180], [650, 600], [270, 600]],
+      "colors": [
+        {
+          "v": [0.78, 1],
+          "s": [0, 0.66]
+        }
+      ],
+      "close_iter": 1,
+      "fill_holes": true,
+      "min_area": 60,
+      "mask_method": "watershed",
+      "bg_colors": [
+        {
+          "v": [0, 0.42]
+        }
+      ],
+      "halo_sigma": 12
+    }
+  ],
+  "light": [
+    {
+      "pattern": "soft",
+      "strength": 0.04,
+      "lift": 1.5,
+      "tint": [0.8, 1.0, 0.98],
+      "light": [20, 140],
+      "exclude": [
+        [[270, 180], [650, 180], [650, 600], [270, 600]]
+      ]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 1.5,
+      "direction": [0.1, -1]
+    }
+  ]
+}

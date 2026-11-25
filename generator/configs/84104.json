@@ -1,0 +1,36 @@
+{
+  "seed": 380266258,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "clouds": [],
+  "wind": [
+    {
+      "polygon": [[0, 0], [1000, 0], [1000, 1000], [0, 1000]],
+      "colors": [
+        {
+          "h": [30, 100],
+          "s": [0.28, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "direction": [1, 0.2]
+    }
+  ],
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [1, 0.2],
+      "light": [110, 230],
+      "strength": 0.04,
+      "lift": 1.0,
+      "tint": [1.0, 0.96, 0.88],
+      "colors": [
+        {
+          "b-r": [-255, 6]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "seed": 1603590946,
+  "water": [],
+  "plants": [
+    {
+      "polygon": [[600, 240], [710, 240], [710, 350], [600, 350]],
+      "colors": [
+        {
+          "g-b": [12, 255],
+          "lum": [25, 150]
+        }
+      ],
+      "close_iter": 1,
+      "min_area": 15,
+      "root": [[630, 340], [690, 340]],
+      "amplitude": 2.0,
+      "edge_feather": 6,
+      "mode": "warp",
+      "warp_mask": true,
+      "warp_margin": 6,
+      "warp_soft": 3
+    },
+    {
+      "polygon": [[870, 380], [985, 380], [985, 495], [870, 495]],
+      "colors": [
+        {
+          "g-b": [12, 255],
+          "lum": [25, 150]
+        }
+      ],
+      "close_iter": 1,
+      "min_area": 15,
+      "root": [[895, 485], [950, 485]],
+      "amplitude": 2.0,
+      "edge_feather": 6,
+      "mode": "warp",
+      "warp_mask": true,
+      "warp_margin": 6,
+      "warp_soft": 3
+    },
+    {
+      "polygon": [[655, 460], [730, 460], [730, 545], [655, 545]],
+      "colors": [
+        {
+          "g-b": [12, 255],
+          "lum": [25, 150]
+        }
+      ],
+      "close_iter": 1,
+      "min_area": 15,
+      "root": [[670, 538], [715, 538]],
+      "amplitude": 2.0,
+      "edge_feather": 6,
+      "mode": "warp",
+      "warp_mask": true,
+      "warp_margin": 6,
+      "warp_soft": 3
+    },
+    {
+      "polygon": [[650, 790], [770, 790], [770, 870], [650, 870]],
+      "colors": [
+        {
+          "g-b": [12, 255],
+          "lum": [25, 150]
+        }
+      ],
+      "close_iter": 1,
+      "min_area": 15,
+      "root": [[670, 865], [750, 865]],
+      "amplitude": 2.0,
+      "edge_feather": 6,
+      "mode": "warp",
+      "warp_mask": true,
+      "warp_margin": 6,
+      "warp_soft": 3
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "rays": {
+    "polygon": [[160, 80], [520, 80], [540, 470], [140, 470]],
+    "direction": [0.15, 1],
+    "light": [80, 200],
+    "shaft_width": 16,
+    "strength": 0.1
+  },
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [0.4, 1],
+      "strength": 0.04,
+      "lift": 1.0,
+      "tint": [1.0, 1.0, 1.02],
+      "light": [35, 190]
+    },
+    {
+      "light": [5, 60],
+      "light_gamma": 0.8,
+      "strength": 0.08,
+      "lift": 4,
+      "tint": [0.95, 0.97, 1.03]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 2.2
+    }
+  ]
+}

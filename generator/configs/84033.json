@@ -1,0 +1,266 @@
+{
+  "seed": 741001134,
+  "water": [],
+  "plants": [
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[200, 675], [395, 675], [395, 850], [200, 850]],
+      "root": [[200, 848], [395, 848]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[0, 895], [205, 895], [205, 1000], [0, 1000]],
+      "root": [[0, 998], [205, 998]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[0, 505], [195, 505], [195, 630], [0, 630]],
+      "root": [[0, 628], [195, 628]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[45, 445], [270, 445], [270, 503], [45, 503]],
+      "root": [[45, 501], [270, 501]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [205, 265],
+          "s": [0.15, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[30, 645], [200, 645], [200, 708], [30, 708]],
+      "root": [[30, 706], [200, 706]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [205, 265],
+          "s": [0.15, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[420, 465], [600, 465], [600, 585], [420, 585]],
+      "root": [[420, 583], [600, 583]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [205, 265],
+          "s": [0.15, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[600, 555], [695, 555], [695, 625], [600, 625]],
+      "root": [[600, 623], [695, 623]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[385, 325], [475, 325], [475, 382], [385, 382]],
+      "root": [[385, 380], [475, 380]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[655, 255], [748, 255], [748, 342], [655, 342]],
+      "root": [[655, 340], [748, 340]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[660, 350], [790, 350], [790, 440], [660, 440]],
+      "root": [[660, 438], [790, 438]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[862, 355], [938, 355], [938, 435], [862, 435]],
+      "root": [[862, 433], [938, 433]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[612, 442], [730, 442], [730, 518], [612, 518]],
+      "root": [[612, 516], [730, 516]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "color",
+      "colors": [
+        {
+          "h": [285, 355],
+          "s": [0.25, 1],
+          "v": [0.15, 1]
+        }
+      ],
+      "close_iter": 2,
+      "min_area": 15,
+      "polygon": [[788, 455], [918, 455], [918, 535], [788, 535]],
+      "root": [[788, 533], [918, 533]],
+      "amplitude": 1.8,
+      "edge_feather": 8
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "wind": {
+    "polygon": [[0, 320], [210, 300], [350, 240], [600, 250], [700, 300], [1000, 330], [1000, 1000], [0, 1000]],
+    "exclude": [
+      [[680, 400], [1000, 380], [1000, 710], [680, 710]]
+    ],
+    "colors": [
+      {
+        "h": [70, 140],
+        "s": [0.25, 1],
+        "v": [0.12, 0.7]
+      }
+    ],
+    "direction": [1, 0.15]
+  },
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [1, 0.2],
+      "light": [80, 210],
+      "strength": 0.035,
+      "lift": 0.5,
+      "tint": [1.0, 0.98, 0.88]
+    }
+  ]
+}

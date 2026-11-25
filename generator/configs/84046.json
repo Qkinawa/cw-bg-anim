@@ -1,0 +1,30 @@
+{
+  "seed": 318875110,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "rays": [
+    {
+      "polygon": [[0, 0], [380, 0], [560, 280], [640, 470], [540, 555], [420, 570], [300, 430], [120, 330], [0, 380]],
+      "direction": [0.52, 0.85],
+      "light": [22, 85],
+      "shaft_width": 18,
+      "strength": 0.15,
+      "edge_feather": 35
+    }
+  ],
+  "particles": {
+    "polygon": [[190, 60], [360, 60], [560, 330], [640, 620], [520, 650], [360, 420], [210, 230]],
+    "style": "glow",
+    "count": 18,
+    "direction": [0.25, 1],
+    "speed": [1.5, 3.5],
+    "life": [2, 4],
+    "size": [0.8, 1.4],
+    "brightness": [0.45, 0.8],
+    "color": [225, 235, 130],
+    "wobble": 2.0,
+    "glow_strength": 0.35
+  }
+}

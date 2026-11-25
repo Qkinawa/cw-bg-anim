@@ -1,0 +1,175 @@
+{
+  "seed": 343802116,
+  "water": [],
+  "plants": [
+    {
+      "polygon": [[335, 118], [755, 118], [755, 258], [335, 258]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[350, 245], [740, 245]],
+      "amplitude": 2.0,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "mask_method": "grabcut",
+      "power": 2.0
+    },
+    {
+      "polygon": [[205, 445], [405, 445], [405, 552], [205, 552]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[212, 544], [398, 544]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[525, 380], [925, 380], [925, 552], [525, 552]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[540, 537], [920, 537]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[420, 553], [928, 553], [928, 718], [420, 718]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[430, 706], [940, 706]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[255, 705], [395, 705], [395, 772], [255, 772]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[265, 768], [385, 768]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[260, 773], [410, 773], [410, 835], [260, 835]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[270, 829], [400, 829]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[705, 790], [838, 790], [838, 852], [705, 852]],
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        }
+      ],
+      "root": [[712, 845], [832, 845]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 8,
+      "power": 2.0
+    },
+    {
+      "polygon": [[180, 1000], [200, 930], [255, 870], [255, 838], [415, 838], [420, 815], [700, 815], [700, 1000]],
+      "root": [[180, 1000], [700, 1000]],
+      "amplitude": 2.5,
+      "edge_feather": 8,
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "grabcut",
+      "colors": [
+        {
+          "h": [40, 100],
+          "s": [0.38, 1],
+          "v": [0.2, 1]
+        },
+        {
+          "s": [0, 0.3],
+          "v": [0.75, 1]
+        }
+      ],
+      "fill_holes": true,
+      "close_iter": 2
+    },
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "polygon": [[105, 380], [220, 380], [220, 520], [105, 520]],
+      "colors": [
+        {
+          "h": [135, 182],
+          "s": [0.1, 0.4],
+          "v": [0.5, 0.85]
+        }
+      ],
+      "min_area": 25,
+      "root": [[175, 518], [210, 518]],
+      "amplitude": 1.6,
+      "edge_feather": 6,
+      "close_iter": 3,
+      "fill_holes": true
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [1, 0.3],
+      "lift": 1.0,
+      "tint": [1.0, 0.96, 0.85],
+      "light": [90, 230]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 1.8
+    }
+  ]
+}

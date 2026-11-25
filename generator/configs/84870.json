@@ -1,0 +1,70 @@
+{
+  "seed": 1364659779,
+  "water": [
+    {
+      "polygon": [[385, 545], [440, 540], [520, 560], [575, 600], [570, 700], [560, 860], [480, 870], [420, 780], [400, 700], [390, 600]],
+      "colors": [
+        {
+          "s": [0, 0.5],
+          "v": [0.17, 1]
+        }
+      ],
+      "source": [[385, 548], [575, 590]],
+      "min_area": 800,
+      "highlight": [0.5, 5],
+      "gain_max": 2.6,
+      "mode": "classic",
+      "smooth_flow": 0,
+      "irregularity": [0, 0],
+      "wave_jitter": 0,
+      "patchiness": 0
+    },
+    {
+      "polygon": [[230, 548], [300, 548], [300, 705], [242, 705]],
+      "colors": [
+        {
+          "s": [0, 0.5],
+          "v": [0.12, 1]
+        }
+      ],
+      "source": [[230, 551], [300, 551]],
+      "min_area": 300,
+      "highlight": [0.5, 5],
+      "gain_max": 2.6,
+      "mode": "classic",
+      "smooth_flow": 0,
+      "irregularity": [0, 0],
+      "wave_jitter": 0,
+      "patchiness": 0
+    }
+  ],
+  "plants": [],
+  "mist": {
+    "polygon": [[380, 760], [600, 760], [630, 860], [370, 860]],
+    "color": [150, 150, 120],
+    "opacity": 0.22,
+    "drift": [5, -2],
+    "noise_sigma": 12,
+    "noise_mode": "loop"
+  },
+  "fireflies": null,
+  "rays": [
+    {
+      "polygon": [[430, 0], [1000, 0], [1000, 430], [430, 430]],
+      "direction": [0, 1],
+      "light": [20, 80],
+      "shaft_width": 14,
+      "strength": 0.25
+    },
+    {
+      "polygon": [[50, 110], [300, 110], [300, 480], [50, 480]],
+      "direction": [0.1, 1],
+      "light": [50, 150],
+      "shaft_width": 18,
+      "strength": 0.15
+    }
+  ],
+  "balance": {
+    "enabled": false
+  }
+}

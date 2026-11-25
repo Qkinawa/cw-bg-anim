@@ -1,0 +1,88 @@
+{
+  "seed": 1186518679,
+  "water": [],
+  "plants": [
+    {
+      "mask_method": "grabcut",
+      "mode": "warp",
+      "warp_mask": true,
+      "edge_feather": 8,
+      "amplitude": 3.0,
+      "polygon": [[752, 680], [830, 670], [905, 700], [905, 800], [870, 852], [770, 852], [752, 780]],
+      "root": [[790, 850], [880, 850]],
+      "fg_hint": [
+        [[790, 720], [880, 720], [880, 820], [790, 820]]
+      ]
+    },
+    {
+      "mask_method": "grabcut",
+      "mode": "warp",
+      "warp_mask": true,
+      "edge_feather": 8,
+      "amplitude": 3.5,
+      "polygon": [[860, 790], [1000, 780], [1000, 1000], [860, 1000], [850, 900]],
+      "root": [[900, 1000], [1000, 1000]],
+      "fg_hint": [
+        [[900, 840], [990, 840], [990, 980], [900, 980]]
+      ]
+    },
+    {
+      "mode": "warp",
+      "edge_feather": 20,
+      "amplitude": 2.0,
+      "polygon": [[800, 572], [1000, 568], [1000, 782], [912, 782], [906, 700], [832, 666], [800, 658]],
+      "root": [[912, 782], [1000, 782]]
+    },
+    {
+      "polygon": [[0, 775], [260, 775], [270, 1000], [0, 1000]],
+      "root": [[0, 1000], [265, 1000]],
+      "amplitude": 3.5,
+      "mask_method": "grabcut",
+      "mode": "warp",
+      "warp_mask": true,
+      "edge_feather": 8
+    },
+    {
+      "polygon": [[440, 845], [630, 845], [630, 1000], [440, 1000]],
+      "root": [[425, 1000], [628, 1000]],
+      "amplitude": 3.5,
+      "mask_method": "grabcut",
+      "mode": "warp",
+      "warp_mask": true,
+      "edge_feather": 8
+    },
+    {
+      "mask_method": "grabcut",
+      "polygon": [[372, 552], [445, 552], [445, 645], [372, 645]],
+      "root": [408, 640],
+      "amplitude": 2.0,
+      "mode": "warp",
+      "warp_mask": true,
+      "edge_feather": 8,
+      "fg_hint": [
+        [[395, 565], [425, 565], [425, 620], [395, 620]]
+      ],
+      "bg_hint": [
+        [[425, 555], [445, 555], [445, 580], [425, 580]]
+      ]
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "rays": {
+    "polygon": [[250, 0], [800, 0], [760, 470], [300, 520]],
+    "direction": [-0.15, 1],
+    "light": [70, 190]
+  },
+  "particles": {
+    "polygon": [[850, 240], [965, 240], [965, 480], [850, 480]],
+    "style": "bubble",
+    "count": 10,
+    "direction": [0, -1],
+    "speed": [6, 12],
+    "life": [3, 5],
+    "size": [2.0, 3.5],
+    "brightness": [0.35, 0.6],
+    "color": [215, 240, 230]
+  }
+}

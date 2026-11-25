@@ -1,0 +1,22 @@
+{
+  "seed": 2140300905,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [1, 0.25],
+      "strength": 0.04,
+      "lift": 1.5,
+      "tint": [1.0, 0.88, 0.7],
+      "light": [15, 110]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 1.5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "seed": 683063227,
+  "water": [
+    {
+      "polygon": [[0, 188], [1000, 188], [1000, 1000], [0, 1000]],
+      "colors": [
+        {
+          "h": [65, 200],
+          "s": [0.08, 1],
+          "v": [0.08, 1]
+        }
+      ],
+      "source": [[0, 192], [1000, 192]],
+      "wavelength": [22, 56]
+    }
+  ],
+  "plants": [
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "polygon": [[0, 0], [1000, 0], [1000, 62], [0, 62]],
+      "colors": [
+        {
+          "h": [50, 95],
+          "s": [0.4, 1],
+          "v": [0.42, 1]
+        }
+      ],
+      "close_iter": 2,
+      "fill_holes": true,
+      "min_area": 30,
+      "root": [[0, 0], [1000, 0]],
+      "amplitude": 2.5,
+      "edge_feather": 6
+    }
+  ],
+  "mist": null,
+  "fireflies": null
+}

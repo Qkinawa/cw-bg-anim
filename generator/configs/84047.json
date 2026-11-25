@@ -1,0 +1,30 @@
+{
+  "seed": 1678153072,
+  "water": [],
+  "plants": [
+    {
+      "mode": "warp",
+      "warp_mask": true,
+      "mask_method": "grabcut",
+      "polygon": [[915, 755], [995, 755], [995, 850], [915, 850]],
+      "root": [955, 845],
+      "amplitude": 2.0,
+      "edge_feather": 6
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "light": [
+    {
+      "pattern": "soft",
+      "direction": [-1, 0.3],
+      "light": [40, 110],
+      "strength": 0.04,
+      "lift": 1.0,
+      "tint": [0.85, 0.92, 1.0]
+    }
+  ],
+  "dust": [
+    {}
+  ]
+}

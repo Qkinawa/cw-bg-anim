@@ -1,0 +1,42 @@
+{
+  "seed": 1667977577,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": {
+    "polygon": [[300, 575], [640, 575], [650, 780], [290, 780]],
+    "count": 6,
+    "color": [255, 175, 85]
+  },
+  "glow": {
+    "polygon": [[280, 540], [740, 540], [740, 915], [280, 915]],
+    "mask_method": "watershed",
+    "colors": [
+      {
+        "v": [0.86, 1],
+        "s": [0.6, 1],
+        "h": [5, 35]
+      }
+    ],
+    "bg_colors": [
+      {
+        "v": [0, 0.62]
+      }
+    ],
+    "min_area": 30,
+    "fill_holes": true,
+    "halo_sigma": 8
+  },
+  "light": [
+    {
+      "polygon": [[160, 470], [800, 470], [840, 1000], [130, 1000]],
+      "pattern": "soft",
+      "strength": 0.04,
+      "lift": 1.5,
+      "flicker": 0.35,
+      "tint": [1.0, 0.78, 0.5],
+      "light": [25, 150],
+      "edge_feather": 70
+    }
+  ]
+}

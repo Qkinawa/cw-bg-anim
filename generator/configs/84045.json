@@ -1,0 +1,22 @@
+{
+  "seed": 168359004,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "wind": [
+    {
+      "polygon": [[0, 0], [1000, 0], [1000, 1000], [0, 1000]],
+      "colors": [
+        {
+          "h": [45, 95],
+          "s": [0.3, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "direction": [1, 0.2],
+      "scale": 250,
+      "directionality": 0.6
+    }
+  ]
+}

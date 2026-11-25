@@ -1,0 +1,46 @@
+{
+  "seed": 1721448403,
+  "water": [
+    {
+      "polygon": [[230, 800], [290, 770], [400, 755], [520, 752], [620, 762], [700, 790], [750, 820], [740, 865], [680, 880], [640, 930], [520, 950], [400, 940], [320, 905], [240, 880]],
+      "colors": [
+        {
+          "v": [0.1, 1]
+        }
+      ],
+      "source": [477, 850],
+      "min_area": 500,
+      "highlight": [0.5, 3],
+      "flow_metric": "ellipse",
+      "ellipse_aspect": 0.3
+    }
+  ],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "light": [
+    {
+      "pattern": "caustic",
+      "scale": 80,
+      "caustic_sharp": 1.4,
+      "near_water": 140,
+      "direction": [0.3, -1],
+      "directionality": 0.5,
+      "strength": 0.04,
+      "lift": 1.5,
+      "tint": [0.9, 0.95, 1.0]
+    },
+    {
+      "pattern": "soft",
+      "strength": 0.04,
+      "lift": 1.5,
+      "light": [15, 50],
+      "tint": [1.0, 0.95, 0.85]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 1.5
+    }
+  ]
+}

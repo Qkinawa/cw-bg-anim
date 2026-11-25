@@ -1,0 +1,22 @@
+{
+  "seed": 1329178184,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": {
+    "polygon": [[590, 400], [760, 400], [770, 660], [590, 660]],
+    "count": 5
+  },
+  "glow": null,
+  "light": [
+    {
+      "pattern": "soft",
+      "aniso": 1.0,
+      "direction": [0.4, -1],
+      "light": [30, 100],
+      "strength": 0.04,
+      "lift": 1.5,
+      "tint": [0.92, 1.0, 0.75]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "seed": 680782772,
+  "water": [],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "glow": [
+    {
+      "polygon": [[0, 0], [1000, 0], [1000, 1000], [0, 1000]],
+      "mask_method": "watershed",
+      "colors": [
+        {
+          "h": [295, 345],
+          "s": [0.4, 1],
+          "v": [0.45, 1]
+        }
+      ],
+      "bg_colors": [
+        {
+          "v": [0, 0.33]
+        }
+      ],
+      "min_area": 15,
+      "fill_holes": true,
+      "close_iter": 1,
+      "halo_sigma": 10,
+      "amplitude": 0.3,
+      "halo_strength": 0.2,
+      "pattern": "glint"
+    }
+  ],
+  "light": [
+    {
+      "pattern": "soft",
+      "polygon": [[450, 550], [1000, 450], [1000, 1000], [400, 1000]],
+      "edge_feather": 120,
+      "direction": [-1, -0.6],
+      "flicker": 0.25,
+      "strength": 0.04,
+      "lift": 1.5,
+      "light": [30, 120],
+      "tint": [1.0, 0.85, 0.65]
+    },
+    {
+      "pattern": "soft",
+      "polygon": [[0, 780], [1000, 780], [1000, 1000], [0, 1000]],
+      "edge_feather": 80,
+      "strength": 0.04,
+      "lift": 1.5,
+      "light": [28, 90],
+      "tint": [1.0, 0.7, 0.9]
+    }
+  ],
+  "dust": [
+    {
+      "light_bias": 1.5
+    }
+  ],
+  "balance": {
+    "obj_gain_max": 1.0,
+    "fixed": {
+      "glow": 1.0,
+      "light": 1.725,
+      "dust": 1.916
+    }
+  }
+}

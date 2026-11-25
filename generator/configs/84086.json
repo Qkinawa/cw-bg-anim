@@ -1,0 +1,79 @@
+{
+  "seed": 834659841,
+  "water": [
+    {
+      "polygon": [[0, 0], [1000, 0], [1000, 175], [0, 175]],
+      "colors": [
+        {
+          "h": [90, 160],
+          "s": [0, 0.4],
+          "v": [0.4, 0.97]
+        }
+      ],
+      "source": [[0, 0], [0, 175]],
+      "wavelength": [40, 40],
+      "gain_min": 0.1,
+      "highlight": [0.5, 6],
+      "gain_max": 2.6,
+      "mode": "classic",
+      "smooth_flow": 0,
+      "irregularity": [0, 0],
+      "wave_jitter": 0,
+      "patchiness": 0
+    }
+  ],
+  "plants": [],
+  "mist": null,
+  "fireflies": null,
+  "rays": [
+    {
+      "polygon": [[120, 0], [470, 0], [440, 680], [0, 680], [0, 230]],
+      "direction": [-0.32, 1],
+      "light": [70, 190],
+      "edge_feather": 60,
+      "strength": 0.1
+    },
+    {
+      "polygon": [[400, 0], [640, 0], [700, 720], [350, 720]],
+      "direction": [0.02, 1],
+      "light": [70, 190],
+      "edge_feather": 60,
+      "strength": 0.1
+    },
+    {
+      "polygon": [[570, 0], [900, 0], [1000, 230], [1000, 680], [610, 680]],
+      "direction": [0.32, 1],
+      "light": [70, 190],
+      "edge_feather": 60,
+      "strength": 0.1
+    }
+  ],
+  "particles": [
+    {
+      "polygon": [[60, 350], [960, 350], [960, 850], [60, 850]],
+      "style": "mote",
+      "count": 26,
+      "direction": [0.15, -1],
+      "speed": [1.5, 3.5],
+      "life": [2, 4],
+      "size": [0.9, 1.6],
+      "brightness": [0.25, 0.5],
+      "color": [205, 235, 215],
+      "wobble": 1.5
+    },
+    {
+      "polygon": [[100, 860], [800, 860], [800, 990], [100, 990]],
+      "style": "bubble",
+      "count": 6,
+      "direction": [0, -1],
+      "speed": [3, 6],
+      "life": [2, 4],
+      "size": [2.0, 3.5],
+      "brightness": [0.3, 0.5],
+      "color": [205, 235, 220]
+    }
+  ],
+  "balance": {
+    "enabled": false
+  }
+}

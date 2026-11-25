@@ -1,0 +1,169 @@
+{
+  "seed": 2143928871,
+  "water": [],
+  "plants": [
+    {
+      "polygon": [[838, 0], [893, 0], [893, 50], [838, 50]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [[860, 46], [885, 46]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[905, 3], [955, 3], [955, 93], [905, 93]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [[925, 88], [945, 88]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[795, 35], [848, 35], [848, 98], [795, 98]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [838, 95],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[868, 86], [897, 86], [897, 134], [868, 134]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [881, 133],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[840, 112], [868, 112], [868, 134], [893, 134], [893, 182], [840, 182]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [875, 178],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[5, 335], [90, 335], [90, 450], [5, 450]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [[25, 447], [48, 428], [70, 424]],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[378, 355], [425, 355], [425, 436], [378, 436]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [400, 432],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[940, 352], [995, 352], [995, 474], [940, 474]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [972, 470],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    },
+    {
+      "polygon": [[832, 405], [882, 405], [882, 490], [832, 490]],
+      "colors": [
+        {
+          "h": [265, 335],
+          "s": [0.25, 1],
+          "v": [0.25, 1]
+        }
+      ],
+      "root": [858, 488],
+      "amplitude": 2.5,
+      "close_iter": 2,
+      "fill_holes": true,
+      "edge_feather": 6,
+      "parts": false
+    }
+  ],
+  "mist": null,
+  "fireflies": null,
+  "wind": [
+    {
+      "polygon": [[0, 180], [1000, 0], [1000, 1000], [0, 1000]],
+      "colors": [
+        {
+          "h": [50, 100],
+          "s": [0.4, 1],
+          "v": [0.35, 1]
+        }
+      ],
+      "direction": [1, 0.3],
+      "mode": "bands"
+    }
+  ],
+  "balance": {
+    "enabled": false
+  }
+}
